@@ -1,0 +1,2 @@
+# schnapsen
+web browser schnapsen
